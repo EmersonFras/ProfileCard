@@ -1,0 +1,58 @@
+#head {
+    text-align: center;
+    background-color: #1A1B21;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.name {
+    padding-top: 21px;
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+    margin:0;
+}
+
+.job {
+    margin:0;
+    color: #F3BF99;
+    font-weight: 400;
+    font-size: 12.8px;
+}
+
+.pfp {
+    width: 320px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.btns{
+    padding: 15px 36px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.link {
+    min-width: 115px;
+    height:34px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+#mail-btn {
+    background-color: white;
+    color: #374151;
+}
+
+#linkedin-btn {
+    background-color: #5093E2;
+    color: white;
+}
+
+.btn-img {
+    padding-right: 10px;
+}

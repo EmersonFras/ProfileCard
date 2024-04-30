@@ -1,0 +1,14 @@
+#footer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #161619;
+    width: 320px;
+    min-height: 64px;
+    border-radius: 0 0 10px 10px;
+}
+
+.footer-img {
+    aspect-ratio: 1/1;
+    height: 25px;
+}
