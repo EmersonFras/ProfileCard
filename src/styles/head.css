@@ -31,6 +31,7 @@
     justify-content: space-between;
 }
 
+
 .link {
     min-width: 115px;
     height:34px;
@@ -51,6 +52,10 @@
 #linkedin-btn {
     background-color: #5093E2;
     color: white;
+}
+
+#linkedin-btn:hover, #mail-btn:hover {
+    background-image: linear-gradient(rgb(0 0 0/10%) 0 0)
 }
 
 .btn-img {

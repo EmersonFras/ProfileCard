@@ -11,12 +11,12 @@ export default function head() {
             <h1 className = "name">Emerson Frasure</h1>
             <h5 className ="job">CS Major</h5>
             <div className="btns">
-                <a href = "mailto:emersonfrasure@gmail.com" id = "mail-btn" className="link">
+                <a href = "mailto:emersonfrasure@gmail.com" target="_blank" id = "mail-btn" className="link">
                 <img className = "btn-img" src={mail} alt="mail logo"/>
                 <span>Email</span> 
                 </a>
 
-                <a href = "https://linkedin.com/in/emersonfras" id = "linkedin-btn"className="link">
+                <a href = "https://linkedin.com/in/emersonfras" target="_blank" id = "linkedin-btn"className="link">
                     <img className = "btn-img" src={linkedin} alt="linkedin logo"/>
                     <span>Linkedin</span>
                 </a>
