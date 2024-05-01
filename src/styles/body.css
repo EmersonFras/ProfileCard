@@ -1,12 +1,13 @@
 #info {
     background-color: #1A1B21;
-    padding: 25px 36px;
+    padding: 1px 36px 25px 36px;
 }
 
 .title {
     color: #f5f5f5;
     font-weight:700;
     font-size: 16px;
+    margin: 0;
 }
 
 .text {
